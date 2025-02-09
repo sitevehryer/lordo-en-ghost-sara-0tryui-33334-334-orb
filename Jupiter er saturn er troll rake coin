@@ -1,8 +1,16 @@
-count
-
-message 
-
 edit 
+    no 
+      th 
+
+count gear
+
+item 
+     as 
+               wire
+{count    = abc
+ message =     def
+ edit   =         ite
+}
 
                ap moment
 st green cities
